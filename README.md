@@ -2,7 +2,7 @@
 
 An ultrafast implementation of a Mario Bros using just CSS3
 
-<img src="mario.png" align="center" />
+<img src="mario.png" width="250" height="250" align="center" />
 
 [Demo](http://corzzo.com/mario/mario.html)
 
