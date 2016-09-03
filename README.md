@@ -6,6 +6,8 @@ An ultrafast implementation of a Mario Bros using just CSS3
 
 [Demo](http://corzzo.com/mario/mario.html)
 
+[Video](https://youtu.be/qZ28gfDdMKo)
+
 ## Features used
 * absolute positioning
 * Ovals using border-radius 100%
